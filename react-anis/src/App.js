@@ -1,12 +1,12 @@
 import React from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import State from './components/State/State';
+import ConditionalRendering from './components/Conditional_Rendering';
 
 
 function App() {
 
     return <div>        
-        <State count="0" />   
+        <ConditionalRendering />   
 
     </div>
 }
