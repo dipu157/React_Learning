@@ -1,13 +1,12 @@
 import React from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import ConditionalRendering from './components/Conditional_Rendering';
+import Index2 from './components/Hooks_UseState/Index2';
 
 
 function App() {
 
     return <div>        
-        <ConditionalRendering />   
-
+        <Index2 />
     </div>
 }
 
