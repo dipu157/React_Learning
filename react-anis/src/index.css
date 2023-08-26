@@ -38,6 +38,14 @@ main {
     margin: 2rem;
 }
 
+.btn {
+    font-size: 20px;
+    color: blue;
+    padding: 5px;
+    border: 1px solid;
+    margin: 5px;
+}
+
 footer {
     height: 5vh;
     display: flex;
