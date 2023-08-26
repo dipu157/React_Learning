@@ -1,11 +1,12 @@
 import React from 'react';
-import { FaAirbnb } from "react-icons/fa";
+import 'bootstrap/dist/css/bootstrap.min.css';
+import { ReactBootstrap } from './components/React_Bootstrap/ReactBootstrap';
 
 
 function App() {
 
     return <div>        
-        <h1 className='icon'><FaAirbnb /> React Icon</h1>        
+        <ReactBootstrap />   
 
     </div>
 }
