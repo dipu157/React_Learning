@@ -1,12 +1,12 @@
 import React from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import Index2 from './components/Hooks_UseState/Index2';
+import Event_Handler_Class from './Event_Handler_Class';
 
 
 function App() {
 
     return <div>        
-        <Index2 />
+        <Event_Handler_Class />
     </div>
 }
 
